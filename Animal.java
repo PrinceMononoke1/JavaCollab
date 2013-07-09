@@ -113,9 +113,6 @@ public class Animal {
 	public Animal(){
 		
 	}
-	
-	public Animal(){
-		
-	}
+	asfd;lkj
 	
 }
