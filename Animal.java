@@ -113,6 +113,5 @@ public class Animal {
 	public Animal(){
 		
 	}
-	asfd;lkj
 	
 }
